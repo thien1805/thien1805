@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Thien Pham
 
-<!--
-**thien1805/thien1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A student aspiring to become a software engineer
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+I love learning new knowledge and exploring technologies.  
+Currently on a journey of self-discovery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- Python, Java  
+- Django, FastAPI, Flask, Spring Boot  
+- Docker  
+- Azure, AWS  
+- PostgreSQL
