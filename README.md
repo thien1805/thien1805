@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Thien Pham
 
-🎓 A student aspiring to become a software engineer
+🎓 A student aspiring to become an engineer
 
 ### 👨‍💻 About Me
 I love learning new knowledge and exploring technologies.  
